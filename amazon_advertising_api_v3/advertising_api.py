@@ -1,5 +1,5 @@
-from regions import regions
-from versions import versions
+from amazon_advertising_api_v3.regions import regions
+from amazon_advertising_api_v3.versions import versions
 from io import BytesIO
 try:
     # Python 3
