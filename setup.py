@@ -1,5 +1,5 @@
 from setuptools import setup
-import amazon_advertising_api.versions as aa_versions
+import amazon_advertising_api_v3.versions as aa_versions
 
 
 setup(
